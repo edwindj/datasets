@@ -21,6 +21,7 @@ datapackage <- function(x, dir=".", title="", description="", ...){
 }
 
 table_schema <- function(x, name, ...){
+  #TODO csv writing to different function
   path <- paste0(name, ".csv")
   write.csv(x, file=path, row.names=FALSE)
   
@@ -36,7 +37,7 @@ table_schema <- function(x, name, ...){
         , description=""
         )
   }) 
-  list(path=path, fields=fields)
+  list(path=path, schema=list(fields=fields))
 }
 
 # testing 
