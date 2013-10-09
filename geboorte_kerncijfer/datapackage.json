@@ -1,0 +1,163 @@
+{
+	"name" : "geb",
+	"datapackage_version" : "1.0b5",
+	"title" : "",
+	"description" : "",
+	"resources" : {
+		"path" : "geb.csv",
+		"schema" : {
+			"fields" : [
+				{
+					"name" : "Perioden",
+					"title" : "Perioden",
+					"type" : "integer",
+					"description" : ""
+				},
+				{
+					"name" : "Regio.s",
+					"title" : "Regio.s",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Totaal.levendgeborenen",
+					"title" : "Totaal.levendgeborenen",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Bruto.geboortecijfer",
+					"title" : "Bruto.geboortecijfer",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Levendgeboren.jongens",
+					"title" : "Levendgeboren.jongens",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Levendgeboren.meisjes",
+					"title" : "Levendgeboren.meisjes",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Algemeen.vruchtbaarheidscijfer",
+					"title" : "Algemeen.vruchtbaarheidscijfer",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Gestandaardiseerd.vruchtbaarheidscijfer",
+					"title" : "Gestandaardiseerd.vruchtbaarheidscijfer",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Gemiddeld.kindertal.per.vrouw",
+					"title" : "Gemiddeld.kindertal.per.vrouw",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Totaal.levendgeborenen.1",
+					"title" : "Totaal.levendgeborenen.1",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Jonger.dan.20.jaar",
+					"title" : "Jonger.dan.20.jaar",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "X20.tot.25.jaar",
+					"title" : "X20.tot.25.jaar",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "X25.tot.30.jaar",
+					"title" : "X25.tot.30.jaar",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "X30.tot.35.jaar",
+					"title" : "X30.tot.35.jaar",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "X35.tot.40.jaar",
+					"title" : "X35.tot.40.jaar",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "X40.tot.45.jaar",
+					"title" : "X40.tot.45.jaar",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "X45.jaar.of.ouder",
+					"title" : "X45.jaar.of.ouder",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Totaal.levendgeborenen.2",
+					"title" : "Totaal.levendgeborenen.2",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "X1e.kind",
+					"title" : "X1e.kind",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "X2e.kind",
+					"title" : "X2e.kind",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "X3e.kind",
+					"title" : "X3e.kind",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "X4e.of.volgende.kinderen",
+					"title" : "X4e.of.volgende.kinderen",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Totaal.levendgeborenen.3",
+					"title" : "Totaal.levendgeborenen.3",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Moeder.gehuwd",
+					"title" : "Moeder.gehuwd",
+					"type" : "string",
+					"description" : ""
+				},
+				{
+					"name" : "Moeder.niet.gehuwd",
+					"title" : "Moeder.niet.gehuwd",
+					"type" : "string",
+					"description" : ""
+				}
+			]
+		}
+	}
+}
